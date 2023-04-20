@@ -2,6 +2,6 @@
     email = namgyung.kim@gmail.com
     name = NamgyungKim
 [github]
-    user = Nadia
+    user = namgyung.kim@gmail.com
 [core]
     sshCommand = "ssh -i ~/.ssh/github"
