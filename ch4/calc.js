@@ -11,7 +11,7 @@ const Calc = function (){
     })
 }
 
-// `util.inherits(Calc, EventEmitter)는 Calc 클래스가 EventEmitter 클래스를 상속받도록 만드는 코드
+// `util.inherits(Calc, EventEmitter)는 Calc 클래스가 EventEmitter 클래스를 상속받도록 만드는 코드.
 util.inherits(Calc, EventEmitter);
 
 
