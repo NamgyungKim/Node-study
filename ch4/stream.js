@@ -7,3 +7,5 @@ infile.on('data', (data)=>{
     console.log('읽어들인 데이터', data);
     outfile.write(data)
 })
+
+
